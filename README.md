@@ -1,2 +1,2 @@
 # GVSBOOTANIMATION
-Check https://darksploit.su/threads/861/
+Это анимация загрузки с лицом Валерчика. 
